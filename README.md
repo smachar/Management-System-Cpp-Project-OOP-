@@ -1,4 +1,4 @@
-# Management System program (Cpp & OOP)
+# Management System program (CPP & OOP)
 
 This project was part of a course about CPP programming and OOP design, the project is a management system of Professors and the Classes they are teaching.
 The program gives the user the abilities to :
@@ -7,7 +7,7 @@ The program gives the user the abilities to :
   * Add a new class and associate it with the professor who is teaching it.
   * List all classes.
 
-This program runs on the terminal and interacts with the user using some predefined instructions (displayed at the top).
+This program runs on the terminal and interacts with the user using some predefined instructions (displayed at the top on terminal).
 
 The objective of this project was to try to write clean code in CPP following the Object Orient Programming design.
 
