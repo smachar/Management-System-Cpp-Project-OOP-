@@ -13,4 +13,4 @@ The objective of this project was to try to write clean code in CPP following th
 
 ### To run the program use:
   * `g++ -std=c++11 -c *.cpp` and then `g++ *.o` to recompile all files.
-  * or simply run the precompiled version using `./a.o`
+  * or simply run the precompiled version using `./a.out`
