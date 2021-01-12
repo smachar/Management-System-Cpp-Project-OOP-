@@ -7,7 +7,7 @@ The program gives the user the abilities to :
   * Add a new class and associate it with the professor who is teaching it.
   * List all classes.
 
-This program runs on the terminal and interacts with the user using some predefined instructions (displayed at the top on terminal).
+This program runs on the terminal and interacts with the user using some predefined instructions (displayed at the top on terminal) and it saves all the data on files such as **classe.dat**, **person.dat** and **prof.dat**.
 
 The objective of this project was to try to write clean code in CPP following the Object Orient Programming design.
 
