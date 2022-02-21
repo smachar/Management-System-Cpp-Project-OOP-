@@ -1,6 +1,6 @@
 # Management System program (CPP & OOP)
 
-This project was part of a course about CPP programming and OOP design, the project is a management system of Professors and the Classes they are teaching.
+This project was part of a course about CPP programming and Object-Oriented Programming design. The project is a management system of Professors and the Classes they teach.
 The program gives the user the abilities to :
   * Add new professor.
   * List all available professors.
